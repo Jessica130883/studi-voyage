@@ -35,6 +35,27 @@ nav {
 .btn {
     width: 100%; 
 }
+
+/* CONTENU */
+.container-content {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.title-travels {
+    font-size: 30px;
+}
+.row-two {
+    margin-top: 30px;
+}
+/* Carousel*/
+.title-lastminute {
+    text-align: center;
+}
+.photo-carousel {
+    height: 550px;
+    width: 100%;
+}
+/* Footer */
 footer {
     background-color: #333333;
     color: white;
