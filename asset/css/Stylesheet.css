@@ -35,4 +35,37 @@ nav {
 .btn {
     width: 100%; 
 }
-
+footer {
+    background-color: #333333;
+    color: white;
+    width: 100%;
+}
+.email-contact, .phone-contact {
+    text-decoration: none;
+    color: white;
+}
+.contact-footer {
+    font-size: 15px;
+    
+    
+}
+.link-legal, .link-cgv {
+    text-decoration: none;
+    color: white;
+}
+.fb-icone, .ig-icone {
+    display: inline-block; 
+    padding: 10px;
+}
+.bi-facebook, .bi-instagram {
+    color: white;
+    height: 60px;
+    width: 60px;
+}
+.contact, .legal, .socials {
+    padding-top: 20px;
+    
+}
+.title-contact, .title-legal, .title-socials {
+    font-size: 20px;
+}
