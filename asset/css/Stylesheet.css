@@ -36,7 +36,7 @@ nav {
     width: 100%; 
 }
 footer {
-    background-color: #5969c7;
+    background-color: #333333;
     color: white;
     width: 100%;
 }
@@ -46,6 +46,7 @@ footer {
 }
 .contact-footer {
     font-size: 15px;
+    
     
 }
 .link-legal, .link-cgv {
@@ -60,4 +61,11 @@ footer {
     color: white;
     height: 60px;
     width: 60px;
+}
+.contact, .legal, .socials {
+    padding-top: 20px;
+    
+}
+.title-contact, .title-legal, .title-socials {
+    font-size: 20px;
 }
